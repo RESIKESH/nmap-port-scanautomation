@@ -1,28 +1,16 @@
 #!/usr/bin/env bash
-# LazyMap
-# Daniel Compton
-# www.commonexploits.com
-# contact@commexploits.com
-# Twitter = @commonexploits
-# 19/12/2012
 # Tested on Bactrack 5 only.
 
 # Import info - read first!
 
-# Nmap Lazy Script - For Internal Inf Testing. tested only on BT5 gnome. Scans should launch 4x terminals at once, may only work on BT5!
+# Nmap Script - For Internal Inf Testing. tested only on BT5 gnome. Scans should launch 4x terminals at once, may only work on BT5!
 # 
 # For the auto creation of a custom Nessus policy - export and place one policy file within the same directory as the script with any filename or extension - it will find it use this as a template.
 # For Nessus template use ensure the following options are set UDP SCAN=ON, SNMP SCAN=ON, SYN SCAN=ON,  PING HOST=OFF, TCP SCAN=OFF - the script will enable safe checks and consider unscanned ports as closed - double check before scanning.
 
 
 #####################################################################################
-# Released as open source by NCC Group Plc - http://www.nccgroup.com/
 
-# Developed by Daniel Compton, daniel dot compton at nccgroup dot com
-
-# https://github.com/nccgroup/vlan-hopping
-
-#Released under AGPL see LICENSE for more information
 
 ######################################################################################
 
