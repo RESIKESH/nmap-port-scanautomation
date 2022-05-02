@@ -2,19 +2,17 @@
 nmap-port-scanautomation - Auto NMAP Scanning Script
 ============================================
 
-Automate NMAP scans and custom Nessus polices.
 
-Released as open source by NCC Group Plc - http://www.nccgroup.com/
 
 Developed by Resikesh M R
 
-https://github.com/nccgroup/port-scan-automation
+https://github.com/RESIKESH/nmap-port-scanautomation/
 
 Released under AGPL see LICENSE for more information
 
 Installing  
 =======================
-    git clone https://github.com/nccgroup/port-scan-automation.git
+    git clone https://github.com/RESIKESH/nmap-port-scanautomation/
 
 
 How To Use	
